@@ -1,0 +1,157 @@
+{
+    "music":[
+        {
+            "artist":"Travis Scott",
+            "url":"https://www1.morexlusive.com/wp-content/uploads/2021/11/Travis_Scott_-_HIGHEST_IN_THE_ROOM.mp3",
+            "songname":"Highest In the Room",
+            "image":"https://media.gq.com/photos/5f3aa9738f9d96b932abcdc3/4:3/w_1999,h_1499,c_limit/travis-scott-gq-cover-september-2020-a.jpg"
+            ,"id":"0"
+        },
+        {
+            "artist":"Kate Bush",
+            "url":"https://ia600209.us.archive.org/1/items/KateBushrunningupthathill/Kate_Bush__Running_Up_That_Hill__12___.mp3",
+            "songname":"Running up that Hill",
+            "image":"https://m.media-amazon.com/images/M/MV5BMGI1Yzk2NTQtZGZjYy00MTlhLWIwZjQtY2ViNTgzODFkOGE2XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg"
+            ,"id":"1"
+        },
+        {
+            "artist":"Harry Styles",
+            "url":"https://hiphopkit.com/music/download/8148/",
+            "songname":"As it was",
+            "image":"https://media.npr.org/assets/img/2020/02/27/wide-use_hpromophoto_helenepambrun-72fdb64792139d94a06f18686d0bb3131a238a70-s1100-c50.jpg"
+            ,"id":"2"
+        },
+        {
+            "artist":"Joji",
+            "url":"https://apiyt.com/converted.php?utm_source=api&sid=FvOpPeKSf_4;1657100526;cd192be2b260c841c33a2d1e317e44c&t=&engine=undefined",
+            "songname":"Glimpse of Us",
+            "image":"https://images2.alphacoders.com/109/1098551.jpg"
+            ,"id":"3"
+            
+        },
+        {
+            "artist":"Glass Animals",
+            "url":"https://lyricszen.com/wp-content/uploads/2022/05/Heat-Waves-Song-Download.mp3",
+            "songname":"HeatWaves",
+            "image":"https://images.genius.com/9306320de2f10fe382bd7e5124729ea4.1000x1000x1.jpg"
+            ,"id":"4"
+        },
+        {
+            "artist":"Drake and Savage21",
+            "url":"https://madnaija.xyz/Hit/datas//Drake%20%E2%80%93%20Jimmy%20Cooks%20Ft.%2021%20Savage.mp3",
+            "songname":"Jimmy Cooks",
+            "image":"https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37"
+            ,"id":"5"
+        },
+        {
+            "artist":"The Kid Laroi and Justin Beiber",
+            "url":"https://paglasongs.com/files/download/id/3510",
+            "songname":"STAY",
+            "image":"https://imgs.capitalfm.com/images/249421?crop=16_9&width=660&relax=1&signature=vSOPxyaqKDWqc4aH-qYe73GjPnA="
+            ,"id":"6"
+        },
+        {
+            "artist":"Jack Harlow",
+            "url":"https://hiphopkit.com/music/download/8760/",
+            "songname":"First Class",
+            "image":"https://www.rollingstone.com/wp-content/uploads/2022/04/JackHarlow2-1.jpeg"
+            ,"id":"7"
+        },
+        {
+            "artist":"Elley Duhe",
+            "url":"https://www.djqunjab.com/wp-content/uploads/2022/05/MIDDLE-OF-THE-NIGHT.mp3",
+            "songname":"Middle of the Night",
+            "image":"https://lastfm.freetls.fastly.net/i/u/770x0/0aef7addeca5198ff908631b67687b01.jpg"
+            ,"id":"8"
+        },
+        {
+            "artist":"Imagine Dragons",
+            "url":"https://paglasongs.com/files/download/id/5005",
+            "songname":"Enemy",
+            "image":"https://www.villagevoice.com/wp-content/uploads/2021/12/210810_Shot_07_197_FINAL-scaled.jpg"
+            ,"id":"9"
+        },
+        {
+            "artist":"Lil Nas-X",
+            "url":"https://www.mp3saavan.com/wp-content/uploads/2022/05/INDUSTRY-BABY.mp3",
+            "songname":"Industry Baby",
+            "image":"https://news.northeastern.edu/wp-content/uploads/2021/09/lil-nas-x-met-gala.jpg"
+            ,"id":"10"
+        },
+        {
+            "artist":"Ed Sheeran",
+            "url":"https://cdn.trendybeatz.com/audio/Ed-Sheeran-Shivers-(TrendyBeatz.com).mp3",
+            "songname":"Shivers",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg"
+            ,"id":"11"
+        },
+        {
+            "artist":"The Weekend",
+            "url":"https://pagalworld4u.online/filedownload/2356793/The-weeknd-blinding-lights-(pagalworld4u.online).mp3",
+            "songname":"Blinding Lights",
+            "image":"https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png"
+            ,"id":"12"
+        },
+        {
+            "artist":"Sidhu Moose Wala",
+            "url":"https://cdnsongs.com/music/data/Single_Track/202107/295/128/295_1.mp3",
+            "songname":"295",
+            "image":"https://yt3.ggpht.com/ytc/AKedOLQesbGjGyGl0gvQGiE659v4PbAZQI3NnkhG8VqBKw=s900-c-k-c0x00ffffff-no-rj"
+            ,"id":"13"
+        },
+        {
+            "artist":"AP Dhillon",
+            "url":"https://pwdown.com/113510/Excuses%20-%20Ap%20Dhillon.mp3",
+            "songname":"Excuses",
+            "image":"https://i1.sndcdn.com/avatars-mMh4mIEpGq3H1zDU-73lFYw-t500x500.jpg"
+            ,"id":"14"
+        },
+        {
+            "artist":"Sidhu Moose Wala",
+            "url":"https://cdnsongs.com/music/data/Single_Track/202205/The_Last_Ride/128/The_Last_Ride_1.mp3",
+            "songname":"The Last Ride",
+            "image":"https://www.lyricsstatus.com/wp-content/uploads/2022/05/Sidhu-Moose-Wala-The-Last-Ride-lyrics-Status-Download.jpg"
+            ,"id":"15"
+            
+        },
+        {
+            "artist":"Shubh",
+            "url":"https://pwdown.com/113515/We%20Rollin%20-%20Shubh.mp3",
+            "songname":"We Rollin",
+            "image":"https://i.scdn.co/image/ab67616d0000b273baf6c6478977c551c6f3cd0e"
+            ,"id":"16"
+            
+        },
+        {
+            "artist":"Sia",
+            "url":"https://paglasongs.com/files/download/id/4110",
+            "songname":"Unstoppable",
+            "image":"https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837"
+            ,"id":"17"
+            
+        },
+        {
+            "artist":"Bruno Mars",
+            "url":"https://englishsongs.wapkiz.com/filedownload/2118484/Bruno-Mars-24K-Magic-(englishsongs.wapkiz.com).mp3",
+            "songname":"24K Magic",
+            "image":"https://m.media-amazon.com/images/I/41NKk2fHW6L.jpg"
+            ,"id":"18"
+            
+        },
+        {
+            "artist":"Melanie Martinez",
+            "url":"https://paglasongs.com/files/download/id/2162",
+            "songname":"PlayDate",
+            "image":"https://images.genius.com/3403d4968e6a4a1c9733cc9cff8ac1bf.1000x1000x1.png"
+            ,"id":"19"
+            
+        },
+        {
+            "artist":"JVKE",
+            "url":"https://trendyloaded.xyz/files/music/2022/03/Jvke_-_this_is_what_falling_in_love_feels_like.mp3?_=1",
+            "songname":"This is what falling in love",
+            "image":"https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d9250914427015ce3226f048d55b0e9f~c5_720x720.jpeg?x-expires=1657137600&x-signature=xjJer49xTCdXgvLYrabsx06tDts%3D"
+            ,"id":"20"
+            
+            }]
+}

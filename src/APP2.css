@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+    display: inline-block;
+}
+body{
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    background: #374151;
+    background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
+    font-family: 'roboto', sans-serif;
+}
+
+#musicplayer{
+    width: 700px;
+    height: 800px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter:blur(120px);
+    box-shadow: 0 8px 40px 0 rgba(0,0,0,0.37);
+    padding: 30px;
+    overflow: hidden;
+    margin-left: 23.5%;
+    margin-top: 2rem;
+    color: #374151;
+}
+p{
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    font-size: 55px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.player_image{
+    position:relative;
+    display:block;
+    margin: 40px auto;
+    width: 400px;
+    height: 350px;
+    border-radius: 50%;
+    background-size: cover;
+    box-shadow: 0 0 0 10px rgb(241, 18, 93);
+}
+.controls{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.play-btn{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: #ea1176;
+    cursor: pointer;
+    border: none;
+}
+
+.play-btn span{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translateY(-50%);
+    width: 30px;
+    height: 40px;
+    border-radius: 2px;
+    background:black;
+    transition: .5s;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+.play-btn span:nth-child(2){
+    left: 55%;
+    transform-origin: center;
+}
+.play-btn.pause span:nth-child(2){
+    transform: translateY(-50%) scaleY(0);
+}
+
+.play-btn.pause span:nth-child(1){
+    width: 35%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    border-radius: 0;
+    clip-path: polygon(0 0, 100% 50%, 100% 50%, 0% 100%);
+}
+.play-btn.pause{
+    animation: pulse 2s linear infinite;
+}
+
+@keyframes pulse{
+    0%{
+        box-shadow: 0;
+    }
+    50%{
+        box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.1);
+    }
+    100%{
+        box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.4);
+    }
+}
+.btn{
+    width: 60px;
+    height:60px;
+    background: #ea1176;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(0);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+} 
+.data{
+    margin-left: 25%;
+    display:inline-flexbox;
+    justify-content: center; 
+    align-items: center; 
+    padding: 20px;
+}
+h1{
+    margin-left: 270px;
+}
+ul{
+    font-size: xx-large;
+    padding:1rem;
+}
+li{
+    padding:0.2rem;
+}
+ul{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
+
+
+
